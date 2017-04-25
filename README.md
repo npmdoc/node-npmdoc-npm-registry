@@ -1,4 +1,7 @@
-# api documentation for  [npm-registry (v0.1.13)](https://github.com/3rd-Eden/npmjs)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-registry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-registry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-registry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-registry)
+# npmdoc-npm-registry
+
+#### basic api documentation for  [npm-registry (v0.1.13)](https://github.com/3rd-Eden/npmjs)  [![npm package](https://img.shields.io/npm/v/npmdoc-npm-registry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-npm-registry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-npm-registry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-npm-registry)
+
 #### An high available npm registry client
 
 [![NPM](https://nodei.co/npm/npm-registry.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm-registry)
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "mocha $(find test -name '*.test.js')"
     },
-    "version": "0.1.13"
+    "version": "0.1.13",
+    "bin": {}
 }
 ```
 
